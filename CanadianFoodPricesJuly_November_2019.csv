@@ -1,0 +1,71 @@
+﻿Monthly average retail prices for food and other selected products 1 2 3,,,,,
+Monthly,,,,,
+Table: 18-10-0002-01 (formerly CANSIM 326-0012),,,,,
+Geography: Canada,,,,,
+,,,,,
+,Canada,,,,
+Products,Jul-19,Aug-19,Sep-19,Oct-19,Nov-19
+,Dollars,,,,
+"Round steak, 1 kilogram",17.59,17.16,17.07,17.36,17.32
+"Sirloin steak, 1 kilogram",22.17,22.17,22.42,22.17,22.43
+"Prime rib roast, 1 kilogram",32.97,32.94,32.61,32.66,34.08
+"Blade roast, 1 kilogram",15.34,15.75,15.62,15.1,14.68
+"Stewing beef, 1 kilogram",15.5,15.55,15.58,15.46,15.51
+"Ground beef, 1 kilogram",10.86,11.23,11.67,11.54,11.69
+"Pork chops, 1 kilogram",12.02,11.72,12.07,11.8,11.58
+"Chicken, 1 kilogram",7.72,7.39,7.44,7.55,7.36
+"Bacon, 500 grams",7.14,6.99,7.04,7.37,7.34
+"Wieners, 450 grams",4.34,4.34,4.28,4.83,4.68
+"Canned salmon, 213 grams",5.84,5.89,5.81,5.83,5.81
+"Homogenized milk, 4 litres",5.8,5.77,5.76,5.8,5.73
+"Partly skimmed milk, 4 litres",5.14,5.15,5.16,5.2,5.21
+"Butter, 454 grams",5.16,5.03,4.97,5.1,5.05
+"Processed cheese slices, 250 grams",2.43,2.52,2.3,2.52,2.41
+"Evaporated milk, 385 millilitres",2.04,1.96,1.87,1.87,1.93
+"Eggs, 1 dozen",3.22,3.25,3.34,3.37,3.36
+"Bread, 675 grams",2.81,2.83,2.82,2.84,2.82
+"Soda crackers, 450 grams",3.36,3.47,3.4,3.4,3.39
+"Macaroni, 500 grams",1.6,1.54,1.45,1.6,1.58
+"Flour, 2.5 kilograms",4.52,4.58,4.62,4.37,4.35
+"Corn flakes, 675 grams",5.71,5.64,5.3,5.58,5.64
+"Apples, 1 kilogram",4.83,4.98,4.95,4.41,4.18
+"Bananas, 1 kilogram",1.55,1.55,1.54,1.56,1.56
+"Oranges, 1 kilogram",3.64,3.79,3.44,3.69,3.85
+"Apple juice, 1.36 litres",2.17,2.18,2.13,2.17,2.16
+"Orange juice, 1 litre",4.19,4.56,4.05,4.01,4.2
+"Carrots, 1 kilogram",2.74,2.4,2.34,2.06,1.94
+"Mushrooms, 1 kilogram",9.23,9.12,9.17,8.95,8.83
+"Onions, 1 kilogram",2.77,2.78,2.42,2.26,2.16
+"Potatoes, 4.54 kilograms",9.94,10.39,10.28,9.77,9.47
+"French fried potatoes, frozen, 1 kilogram",2.85,2.95,3.08,3.02,3.14
+"Baked beans, canned, 398 millilitres",1.31,1.29,1.19,1.38,1.19
+"Tomatoes, canned, 796 millilitres",1.52,1.59,1.58,1.51,1.49
+"Tomato juice, 1.36 litres",2.94,2.94,2.88,2.82,2.96
+"Ketchup, 1 litre",3.52,3.6,3.67,3.66,3.65
+"Sugar, white, 2 kilograms",2.5,2.49,2.52,2.44,2.45
+"Coffee, roasted, 300 grams",5.1,5.02,4.86,4.91,5.02
+"Coffee, instant, 200 grams",6.66,7.22,7,6.9,6.45
+Tea (72 bags),4.1,4.36,4.31,4.17,4.31
+"Cooking or salad oil, 1 litre",3.25,3.16,3.2,3.07,3.07
+"Soup, canned, 284 millilitres",1.15,1.26,1.15,1.3,1.15
+"Baby food, 128 millilitres",1.26,1.31,1.34,1.36,1.42
+"Peanut butter, 500 grams",2.95,2.93,2.82,2.99,2.78
+Paper towels (2 rolls),3.04,3.08,3.09,3.11,3.2
+Facial tissue (200 tissues),3.38,3.39,3.42,3.96,2.77
+Bathroom tissue (4 rolls),2.6,2.55,2.39,2.53,2.44
+"Shampoo, 300 millilitres",4.19,4.19,4.13,4.12,4.13
+"Deodorant, 60 grams",4.38,4.54,4.5,4.38,4.17
+"Toothpaste, 100 millilitres",3.12,3.13,3.08,3.18,3.11
+Cigarettes (200),120.54,120.27,120.4,120.99,121.52
+,Cents per litre,,,,
+"Regular, unleaded gasoline at self-service stations, cents per litre",124.4,117.9,116.9,117.2,115
+,,,,,
+,,,,,
+Footnotes:,,,,,
+1,"Prices for these items are collected as part of the regular monthly Consumer Price Index (CPI) survey. Prices for the selected food, household supply and personal care items are observed in food supermarkets and drug stores, while prices for cigarettes are collected in supermarkets, department stores, drug stores and tobacco shops. Prices for regular unleaded self-serve gasoline are collected by administrative data. In each geographic area defined for pricing purposes, the average prices of each product are weighted by the population of the area in question to calculate the average Canadian retail price of each product. For regular unleaded self-serve gasoline, average city prices are weighted by provincial volume supplied and cities' population to calculate the Canada average retail price. Products that are priced can vary in quality between outlets or between geographic areas. Brands and outlets can also vary from month to month. Therefore, average prices may not necessarily be fully comparable from one month to another and should not be used as an appropriate measure of pure price change through time. A matched product and outlet sample is used for the CPI to determine the pure price movement of products through time.",,,,
+2,"For concepts and definitions, see publication Your Guide to the Consumer Price Index, catalogue no. 62-557-X, or publication The Canadian Consumer Price Index Reference Paper, catalogue no. 62-553-X. Additional information can also be obtained from the Consumer Prices Division at 1-866-230-2248 (toll-free) or by email at cpd-info-dpc@statcan.gc.ca.",,,,
+3,"Effective May 2018 reference month for the Consumer Price Index, sample composition changes due to the introduction of new data sources has resulted in changes in the average retail prices. In particular, brand and quality changes have affected average prices. Users are advised to exercise caution when comparing the May 2018 data to earlier time periods. See the general note on average prices stating that these prices should not be used as an appropriate measure of pure prices change through time.",,,,
+,,,,,
+How to cite: Statistics Canada. Table 18-10-0002-01 Monthly average retail prices for food and other selected products,,,,,
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000201,,,,,
+DOI: https://doi.org/10.25318/1810000201-eng,,,,,
